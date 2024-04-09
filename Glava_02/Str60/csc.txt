@@ -1,0 +1,3 @@
+csc.exe /out:program.exe /t:exe /r:MSCorLib.dll Program.cs 
+csc.exe /out:program.exe /t:exe Program.cs 
+csc.exe Program.cs 

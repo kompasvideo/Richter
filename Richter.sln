@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Glava_02", "Glava_02", "{A10AF2C4-3166-4375-8DB9-5DD30828ED8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Str60", "Glava_02\Str60\Str60.csproj", "{0DCBB9AC-71D1-4CE5-9D8D-6AE4B6B39836}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Str62", "Glava_02\Str62\Str62.csproj", "{CC27F802-9DF1-460D-95C9-307B7D246167}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DCBB9AC-71D1-4CE5-9D8D-6AE4B6B39836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCBB9AC-71D1-4CE5-9D8D-6AE4B6B39836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCBB9AC-71D1-4CE5-9D8D-6AE4B6B39836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCBB9AC-71D1-4CE5-9D8D-6AE4B6B39836}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC27F802-9DF1-460D-95C9-307B7D246167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC27F802-9DF1-460D-95C9-307B7D246167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC27F802-9DF1-460D-95C9-307B7D246167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC27F802-9DF1-460D-95C9-307B7D246167}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0DCBB9AC-71D1-4CE5-9D8D-6AE4B6B39836} = {A10AF2C4-3166-4375-8DB9-5DD30828ED8C}
+		{CC27F802-9DF1-460D-95C9-307B7D246167} = {A10AF2C4-3166-4375-8DB9-5DD30828ED8C}
+	EndGlobalSection
+EndGlobal
