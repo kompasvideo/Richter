@@ -1,10 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Glava_02", "Glava_02", "{A10AF2C4-3166-4375-8DB9-5DD30828ED8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Str60", "Glava_02\Str60\Str60.csproj", "{0DCBB9AC-71D1-4CE5-9D8D-6AE4B6B39836}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Str60", "Glava_02\Str60\Str60.csproj", "{0DCBB9AC-71D1-4CE5-9D8D-6AE4B6B39836}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Str62", "Glava_02\Str62\Str62.csproj", "{CC27F802-9DF1-460D-95C9-307B7D246167}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Str62", "Glava_02\Str62\Str62.csproj", "{CC27F802-9DF1-460D-95C9-307B7D246167}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Str75", "Glava_02\Str75\Str75\Str75.csproj", "{8F9EAA75-5A76-4E37-AE3C-DD5CBACC1088}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,9 +25,17 @@ Global
 		{CC27F802-9DF1-460D-95C9-307B7D246167}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC27F802-9DF1-460D-95C9-307B7D246167}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC27F802-9DF1-460D-95C9-307B7D246167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F9EAA75-5A76-4E37-AE3C-DD5CBACC1088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F9EAA75-5A76-4E37-AE3C-DD5CBACC1088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F9EAA75-5A76-4E37-AE3C-DD5CBACC1088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F9EAA75-5A76-4E37-AE3C-DD5CBACC1088}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{0DCBB9AC-71D1-4CE5-9D8D-6AE4B6B39836} = {A10AF2C4-3166-4375-8DB9-5DD30828ED8C}
 		{CC27F802-9DF1-460D-95C9-307B7D246167} = {A10AF2C4-3166-4375-8DB9-5DD30828ED8C}
+		{8F9EAA75-5A76-4E37-AE3C-DD5CBACC1088} = {A10AF2C4-3166-4375-8DB9-5DD30828ED8C}
 	EndGlobalSection
 EndGlobal

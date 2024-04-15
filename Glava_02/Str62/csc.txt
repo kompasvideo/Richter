@@ -1,0 +1,1 @@
+csc.exe @MyProject.rsp CodeFile1.cs CodeFile2.cs 

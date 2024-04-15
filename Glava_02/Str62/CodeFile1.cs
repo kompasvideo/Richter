@@ -1,6 +1,4 @@
-﻿using System.Runtime.InteropServices.JavaScript;
-
-namespace Str62;
+﻿namespace Str62;
 
 class CodeFile1
 {

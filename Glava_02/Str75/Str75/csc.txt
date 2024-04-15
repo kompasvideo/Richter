@@ -1,0 +1,2 @@
+csc /t:module RUT.cs
+csc /out:MultiFileLibrary.dll /t:library /addmodule:RUT.netmodule FUT.cs
