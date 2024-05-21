@@ -1,11 +1,11 @@
-﻿namespace Str745_Test
+﻿namespace Str756_Test
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            // создать фоновый поток 
-        
+            // register
+            
         }
     }
 }

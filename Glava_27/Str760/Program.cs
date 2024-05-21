@@ -1,4 +1,4 @@
-﻿namespace Str756_Test
+﻿namespace Str760
 {
     internal class Program
     {
