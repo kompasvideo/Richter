@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             // создать фоновый поток 
-        
+            
         }
     }
 }
