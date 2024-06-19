@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Runtime.Remoting.Messaging;
 using System.Threading;
+using System.Runtime.Serialization;
+using System.Security;
 
 namespace Str751_Test
 {

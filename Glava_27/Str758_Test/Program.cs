@@ -1,13 +1,10 @@
-﻿using System.Threading.Channels;
-
-namespace Str756_Test
+﻿namespace Str758_Test
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            // register
-            
+            // task start sum
         }
     }
 }
