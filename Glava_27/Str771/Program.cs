@@ -10,9 +10,18 @@ foreach (var item in collection) DoWork(item);
 // Потоки из пула выполняют всю работу параллельно
 Parallel.ForEach(collection, item => DoWork(item));
 
-
+//  Один поток выполняет методы по очереди
+Method1();
+Method1();
+Method1();
+// Потоки из очереди выполняют работу одновременно
+Parallel.Invoke(
+    () => Method1(),
+    () => Method1(),
+    () => Method1());
 
 void DoWork(Int32 i)
 {
     sum += i;
 }
+void Method1() {}
