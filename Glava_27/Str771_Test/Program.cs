@@ -1,11 +1,10 @@
-﻿namespace Str764_Test
+﻿namespace Str771_Test
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            // task continue sum
-          
+            Console.WriteLine("Hello, World!");
         }
     }
 }
