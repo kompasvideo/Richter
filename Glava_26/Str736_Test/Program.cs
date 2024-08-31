@@ -5,7 +5,6 @@
         static void Main(string[] args)
         {
             // создать поток и передать параметр 5
-           
         }
     }
 }
