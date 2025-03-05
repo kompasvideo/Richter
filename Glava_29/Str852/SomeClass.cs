@@ -8,7 +8,7 @@ public class SomeClass
             Console.WriteLine("Method1 - 0");
             m_lock.WaitOne();
             // Делаем что-то...
-            Thread.Sleep(100);
+            Thread.Sleep(1000);
             Console.WriteLine("Method1 - 1");
             Method2(1);  // Метод Method2, рекурсивно получающий право на блокировку
             Console.WriteLine("Method1 - 2");
